@@ -1,0 +1,22 @@
+{
+  "name": "api-node-express",
+  "version": "1.0.0",
+  "description": "API node com express - Primeira aula de web II",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "api",
+    "javascript",
+    "node",
+    "express",
+    "restfull"
+  ],
+  "author": "Thays Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
