@@ -1,15 +1,15 @@
 # TÓPICOS IMPORTANTES
 
 O que é o Node.js?
-- É uma plataforma que permite executar código javascript no backend/servidor.
+É uma plataforma que permite executar código javascript no backend/servidor.
 
 Para que serve o NPM?
-- É um gerenciador de pacotes do node.js.
+É um gerenciador de pacotes do node.js.
 
 Para que serve o Nodemon?
-- Um monitor no modo dev para startar o servidor.
+Um monitor no modo dev para startar o servidor.
 
-# COMANDOS 
+# COMANDOS UTEIS
 
 ### NPM
 
