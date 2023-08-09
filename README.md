@@ -9,6 +9,14 @@
 ### Para que serve o Nodemon?<br>
 Um monitor no modo dev para startar o servidor.
 
+### O que é API?
+
+### O que é API RESTfull?
+
+### para que serve o Framework Express?
+
+
+
 # COMANDOS UTEIS
 
 ### NPM
